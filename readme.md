@@ -1,0 +1,1 @@
+This project is all about creating a regression based model for predicting the melting temperature (Tm) of a given peptide based on its sequence and other key attributes.
